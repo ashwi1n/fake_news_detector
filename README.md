@@ -20,16 +20,18 @@ Due to GitHub's file size limit, the dataset is not included.
 ➡️ **Download from Kaggle**: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset  
 Place `Fake.csv` and `True.csv` inside the `data/` folder.
 
-<<<<<<< HEAD
 ## 📷 Screenshot
 
 ![App Screenshot](assets/screenshot.png)
 
 ## 🚀 How to Run Locally
-=======
-## 🛠️ Run Locally
->>>>>>> cc5c679 (Add screenshot and update README)
+
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+```
+
+✨ *Made with ❤️ by Ashwin*
+
