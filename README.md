@@ -23,7 +23,7 @@ Place `Fake.csv` and `True.csv` inside the `data/` folder.
 
 ## 📷 Screenshot
 
-![App Screenshot]("C:\Users\Ashwin\OneDrive\Pictures\Screenshots\Screenshot (80).png")
+![App Screenshot]("C:\projects\WEEK 30\fake_news_detector\assets\Screenshot (80).png")
 
 ## 🚀 How to Run Locally
 
