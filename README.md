@@ -15,6 +15,12 @@ This Streamlit app uses Natural Language Processing (NLP) to detect whether a ne
 - `data/` – Dataset used to train.
 - `requirements.txt` – Dependencies.
 
+## 📁 Dataset
+
+Due to GitHub's file size limit, the dataset is not included.  
+➡️ **Download from Kaggle**: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset  
+Place `Fake.csv` and `True.csv` inside the `data/` folder.
+
 ## 🚀 How to Run Locally
 
 ```bash
