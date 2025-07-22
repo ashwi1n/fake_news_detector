@@ -1,0 +1,16 @@
+# Ignore dataset files
+data/Fake.csv
+data/True.csv
+
+# Ignore temporary files
+__pycache__/
+*.pyc
+
+# Ignore model files if needed
+*.h5
+*.pkl
+
+# Ignore system/IDE files
+.DS_Store
+.vscode/
+.idea/
