@@ -21,6 +21,10 @@ Due to GitHub's file size limit, the dataset is not included.
 ➡️ **Download from Kaggle**: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset  
 Place `Fake.csv` and `True.csv` inside the `data/` folder.
 
+## 📷 Screenshot
+
+![App Screenshot]("C:\Users\Ashwin\OneDrive\Pictures\Screenshots\Screenshot (80).png")
+
 ## 🚀 How to Run Locally
 
 ```bash
